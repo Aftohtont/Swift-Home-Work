@@ -1,1 +1,1 @@
-Swift-Home Work  Георги Павлов Иванов
+Swift-Home Work  
