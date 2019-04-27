@@ -1,3 +1,3 @@
 | Вход          | Изход |
 | ------------- | ------------- |
-|              |  ![Image of Yaktocat](file:///D:/SwiftAcademy/1.IntroducingJava/loop1.png)  |
+|              |  ![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/03console_conditional_loops/task03/Loop1.png)  |
