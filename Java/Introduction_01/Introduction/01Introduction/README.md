@@ -1,11 +1,11 @@
 ### task00 Създай Създай нов файл с име HelloWorldApplication.java
   **Напиши следния код:**
 
-public class HelloWorldApplication {
+public class HelloWorldApplication {<br/>
     public static void main(String[] args) 
     {
-        System.out.println("Hello, world!");
-    }
+        System.out.println("Hello, world!");<br/> 
+    } <br/>
 }
 
 ### task01 Сумирай числата a и b
