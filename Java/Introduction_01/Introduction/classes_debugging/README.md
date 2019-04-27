@@ -1,0 +1,7 @@
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task01/task1deb.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task02/task2deb.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task03/task3deb.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task03/task3deb1.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task04/task4.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task04/task4.deb1.PNG)
+![](https://github.com/Aftohtont/Swift-Home-Work/blob/master/Java/Introduction_01/Introduction/classes_debugging/task05/task5deb.PNG)
