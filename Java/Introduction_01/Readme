@@ -1,13 +1,8 @@
-
-# Създай нов файл с име HelloWorldApplication.java
-  ## Напиши следния код:
+# Създай
 
 
-public class HelloWorldApplication {
-    *public static void main(String[] args) {*
-        System.out.println("Hello, world!");
-    }
-}
+
+
 
 
 
