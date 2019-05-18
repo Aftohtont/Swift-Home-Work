@@ -5,7 +5,10 @@ import java.util.Stack;
 public class MachingBrackets {
 	
 public static void main(String[] args) {
-	String bracket="(5(2(10(9]))))";
+	
+	System.out.println("Enter exspression whit brackets");
+	
+	String bracket=new Scanner(System.in).nextLine();
 	
 	Stack st=new Stack<>();
 	
