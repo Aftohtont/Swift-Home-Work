@@ -35,45 +35,46 @@
 <li>Създаване на първото ни приложение</li>
 </ul>
 </li>
-<li>Типове данни, променливи и оператори
-<ul>
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/02Datatypes_Variables_Operators">Типове данни, променливи и оператори
+</a><ul>
 <li>Типове данни и променливи</li>
 <li>Управление на паметта в Java</li>
 <li>Видове оператори – логически, аритметични и тн.</li>
 </ul>
 </li>
-<li>Работа с условни оператори и цикли
+	
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/03console_conditional_loops">Работа с условни оператори и цикли</a>
 <ul>
 <li>Условни оператори – if-else, switch</li>
 <li>Цикли – for, foreach, while, do-while</li>
 </ul>
 </li>
-<li>Масиви. Системи за контрол на версиите на файлове
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/04arrays_string">Масиви. Системи за контрол на версиите на файлове</a>
 <ul>
 <li>Масиви – едномерни, двумерни</li>
 <li>Запознаване със системите за контрол на версиите – GIT и SVN</li>
 <li>Упражнение – качване на домашните до момента на GIT сървър</li>
 </ul>
 </li>
-<li>Класове, методи и обекти
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/classes_objects">Класове, методи и обекти</a>
 <ul>
 <li>Класове. Елементи на класа</li>
 <li>Методи</li>
 </ul>
 </li>
-<li>Статични членове
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/classes_debugging">Статични членове</a>
 <ul>
 <li>Статични методи и полета</li>
 </ul>
 </li>
-<li>Принципи на обектно-ориентираното програмиране. Дебъгване на код
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/classes_debugging">Принципи на обектно-ориентираното програмиране. Дебъгване на код</a>
 <ul>
 <li>Какво е обектно-ориентирано програмиране(ООП)</li>
 <li>Основни принцип на ООП</li>
 <li>Как да откриваме лесно грешките – дебъгване на код </li>
 </ul>
 </li>
-<li>Интерфейси, абстрактни класове и наследяване
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/oopprinciplesextrafeature">Интерфейси, абстрактни класове и наследяване</a>
 <ul>
 <li>Какво са final класовете</li>
 <li>Наследяване в Java</li>
@@ -84,7 +85,7 @@
 </li>
 <li>Упражнения върху ООП
 	</li>
-<li>Обработка на грешки и изключения. Най-добри практики
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/exception/exercise">Обработка на грешки и изключения. Най-добри практики</a>
 <ul>
 <li>Изключения в Java (Exceptions). Конструкцията try/catch/finally</li>
 <li>Създаване на custom exceptions</li>
@@ -92,20 +93,20 @@
 <li>Практически задачи върху ООП</li>
 </ul>
 </li>
-<li>Структури от данни и запознаване с тях
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/10structuredata">Структури от данни и запознаване с тях</a>
 <ul>
 <li>Видове структури от данни</li>
 <li>Запознаване в повече детайли с всяка една структура от данни</li>
 </ul>
 </li>
-<li>Generics, енумерации и атрибути
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/11generics_enums">Generics, енумерации и атрибути</a>
 <ul>
-<li>Шаблонни типове и типизиране(Generics)</li>
+<li>Шаблонни типове и типизиране(Generics)</a></li>
 <li>Изброени типове(Enumerations)</li>
 <li>Какво са атрибутите</li>
 </ul>
 </li>
-<li>Работа с файлове и потоци от данни
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/12stream">Работа с файлове и потоци от данни</a>
 <ul>
 <li>Какво е поток от данни(stream)</li>
 <li>Видове стриймове</li>
@@ -113,7 +114,7 @@
 <li>Работа с файлове и директории – създаване, изтриване, писане, четене и тн.</li>
 </ul>
 </li>
-<li>Въведение в работата с Бази данни
+<li><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/13sqldatabase">Въведение в работата с Бази данни</a>
 <ul>
 <li>Запознаване с Бази данни</li>
 <li>Основни операции с тях(CRUD)</li>
