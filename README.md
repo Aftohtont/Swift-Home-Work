@@ -12,13 +12,15 @@
 <th>Programming</th>
 <th>Web Development</th>
 <th>Software Technologies</th>
+  <th>Programming</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="#c---part-i">C# - Part I</a></td>
+<td><a href="#c---part-i">C# - Part </a></td>
 <td><a href="#html-basics">HTML Basics</a></td>
 <td><a href="#databases">Databases</a></td>
+  <td><a href="#Java">Java</a></td>
 </tr>
 <tr></table>
 
