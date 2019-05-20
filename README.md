@@ -4,6 +4,8 @@
 
 
   <p align="center"><a href="https://swift.bg/courses/java/" alt="Swift Academy – Курсове по програмиране. Java, .NET, QA, Front-End, HTML, CSS, Javascript, Бази данни, C++, PHP и MySQL" title="Swift Academy – Курсове по програмиране. Java, .NET, QA, Front-End, HTML, CSS, Javascript, Бази данни, C++, PHP и MySQL"><img src="http://swift.bg/wp-content/uploads/2015/06/logo.png" alt="Swift Academy – Курсове по програмиране. Java, .NET, QA, Front-End, HTML, CSS, Javascript, Бази данни, C++, PHP и MySQL" title="Swift Academy – Курсове по програмиране. Java, .NET, QA, Front-End, HTML, CSS, Javascript, Бази данни, C++, PHP и MySQL"></a></p>
+  <p align="center"><a href="http://swift.bg/certificates/georgipavlovivanov/10c82ed1.pdf" alt="Swift Academy"> Certificate</a></p>
+  
   
   <!-- Table style-->
 <table>
