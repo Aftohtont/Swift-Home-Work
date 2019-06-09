@@ -21,7 +21,7 @@
 <tr>
 <td><a href="#c---part-i">C# - Part </a></td>
 <td><a href="#html-basics">HTML Basics</a></td>
-<td><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/13sqldatabase">Databases</a></td>
+<td><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction/13sqldatabase">Database</a></td>
   <td><a href="https://github.com/Aftohtont/Swift-Home-Work/tree/master/Java/Introduction_01/Introduction">Java</a></td>
 </tr>
 <tr></table>
